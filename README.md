@@ -65,9 +65,18 @@ Results
 - Feature importance analysis provided actionable insights into property valuation.
 
 ---
+
 [Mini_Project_Propery_Price_Predict.pdf](https://github.com/user-attachments/files/24414153/Mini_Project_Propery_Price_Predict.pdf)
 Author
+
 ## Naman Singh Pathania
 - Data Science & Machine Learning Enthusiast
 - Focused on building interpretable models and actionable insights
+
+git clone https://github.com/yourusername/property-price-predict.git
+cd property-price-predict
+
+pip install -r requirements.txt
+
+jupyter notebook Mini_Project_Property_Price_Predict.ipynb
 
